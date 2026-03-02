@@ -5,7 +5,7 @@ Fast MX record lookup tool for the command line.
 ## Installation
 
 ```
-git clone https://github.com/butwhoistrace/mxsnap.git
+git clone https://github.com/butwhoistrace/mxsnap
 cd mxsnap
 pip install dnspython
 ```
