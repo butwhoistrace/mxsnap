@@ -1,6 +1,6 @@
 # MXSnap
 
-Fast MX record lookup tool for the command line.
+Fast MX record lookup tool for the command line!
 
 ## Installation
 
